@@ -1,4 +1,4 @@
-<h4 align="center" style="font-family:Tahoma">
+<h4  style="font-family:Tahoma">
   سیستم مدیریت محتوا
 <br>
  سمت سرور این پروژه با Asp.net core طراحی شده
