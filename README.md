@@ -1,8 +1,11 @@
 <h4  style="font-family:Tahoma">
   سیستم مدیریت محتوا
 <br>
- سمت سرور<br> : Asp.net core 
- سمت فرانت<br> : html css js bootstrap
-معمار ی<br>: Clean Architecture
-دیتابیس  sql server 
+ سمت سرور : Asp.net core 
+<br>
+سمت فرانت : html css js bootstrap
+<br>
+معمار ی: Clean Architecture
+<br>
+ دیتابیس :   sql server
 </h1>
