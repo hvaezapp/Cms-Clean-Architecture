@@ -1,9 +1,8 @@
 <h4  style="font-family:Tahoma">
   سیستم مدیریت محتوا
 <br>
- سمت سرور این پروژه با Asp.net core طراحی شده
- سمت فرانت با html css js bootstrap
- بر پایه معماری کلین (Clean Architecture
-)  پیاده سازی شده 
+ سمت سرور : Asp.net core 
+ سمت فرانت : html css js bootstrap
+معمار ی: Clean Architecture
 دیتابیس  sql server 
 </h1>
